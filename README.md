@@ -1,2 +1,2 @@
 # basic-calculator
-Basic Calculator built with PySimpleGUI
+Basic Calculator built with FreeSimpleGUI
